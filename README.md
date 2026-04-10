@@ -29,3 +29,4 @@ Here you’ll find selected UI projects including:
 ## Links
 - Portfolio: https://www.behance.net/piedadperalta
 - LinkedIn: https://www.linkedin.com/in/piedad-peralta/
+- Figma: https://www.figma.com/@piedad
